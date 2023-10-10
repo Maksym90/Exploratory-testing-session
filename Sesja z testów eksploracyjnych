@@ -1,0 +1,191 @@
+Test Exploracyjny 1: Wyszukiwanie i Sortowanie Produktów na Stronie Sklepu Internetowego
+
+1. Wejście na stronę internetową sklepu.
+2. Zlokalizowanie opcji wyszukiwania produktów.
+3. Wpisanie zapytania "smartfon" i sprawdzenie wyników.
+4. Wybranie opcji sortowania według ceny "od najniższej do najwyższej".
+5. Przejście na kolejną stronę wyników wyszukiwania.
+6. Dodanie filtru "Marka: Samsung" i sprawdzenie, czy liczba wyników zmniejszyła się.
+7. Znalezienie przycisku "Wyczyść filtry" i upewnienie się, że wszystkie filtry zostały usunięte.
+8. Przeszukanie wyników wyszukiwania za pomocą słowa kluczowego "kamera" i ocenienie wyników.
+9. Sprawdzenie działania paginacji i nawigacji między stronami wyników.
+10. Wyszukanie produktu o najwyższej ocenie i sprawdzenie jego szczegółów.
+
+Test Exploracyjny 2: Rejestracja i Logowanie na Portalu Społecznościowym
+
+1. Wejście na stronę główną portalu społecznościowego.
+2. Kliknięcie przycisku "Rejestracja".
+3. Wpisanie danych rejestracyjnych, takich jak imię, nazwisko, adres e-mail i hasło.
+4. Sprawdzenie, czy system akceptuje poprawnie wypełnione dane.
+5. Próba zarejestrowania się bez podania wymaganego pola, np. adresu e-mail.
+6. Logowanie na konto za pomocą danych rejestracyjnych.
+7. Próba logowania z niepoprawnym hasłem i sprawdzenie, czy system blokuje dostęp po kilku próbach.
+8. Wylogowanie się z konta i upewnienie się, że wylogowywanie działa poprawnie.
+9. Przetestowanie funkcji przywracania hasła.
+
+Test Exploracyjny 3: Dodawanie i Edytowanie Zadań w Aplikacji Zarządzania Zadaniami
+
+1. Zalogowanie się do aplikacji zarządzania zadaniami.
+2. Kliknięcie przycisku "Dodaj nowe zadanie".
+3. Wpisanie tytułu zadania i opisu.
+4. Ustawienie priorytetu zadania na "Wysoki".
+5. Próba dodania zadania bez wypełnienia pola tytułu.
+6. Zapisanie zadania i sprawdzenie, czy jest widoczne na liście zadań.
+7. Wybranie zadania do edycji.
+8. Zmiana opisu zadania i zapisanie zmian.
+9. Zmiana priorytetu zadania na "Niski".
+10. Upewnienie się, że zmiany zostały zapisane i widoczne na liście zadań.
+11. Próba usunięcia zadania i potwierdzenie operacji usunięcia.
+12. Sprawdzenie, czy zadanie zostało usunięte.
+
+Test Exploracyjny 4: Dodawanie i Zarządzanie Kontaktem w Aplikacji do Zarządzania Kontaktami
+
+1. Zalogowanie się do aplikacji do zarządzania kontaktami.
+2. Dodanie nowego kontaktu, wprowadzając imię, nazwisko, numer telefonu i adres e-mail.
+3. Przeszukanie listy kontaktów w poszukiwaniu duplikatów.
+4. Edycja istniejącego kontaktu, zmieniając jego numer telefonu.
+5. Sprawdzenie, czy zmiany w kontakcie zostały zapisane.
+6. Usunięcie jednego z kontaktów i potwierdzenie operacji.
+7. Przeszukanie kontaktów według grup lub kategorii.
+8. Eksportowanie listy kontaktów do pliku CSV.
+9. Importowanie kontaktów z pliku CSV.
+10. Sprawdzenie, czy aplikacja obsługuje specjalne znaki i polskie litery w kontaktach.
+
+Test Exploracyjny 5: Przeglądanie i Dodawanie Oceny Filmów w Aplikacji do Recenzowania Filmów
+
+1. Zalogowanie się do aplikacji do recenzowania filmów.
+2. Przeszukanie listy dostępnych filmów.
+3. Wybranie filmu do przeczytania recenzji.
+4. Dodanie nowej recenzji do wybranego filmu, oceniając go i wpisując komentarz.
+5. Przeszukanie recenzji innych użytkowników.
+6. Znalezienie recenzji bez oceny i dodanie swojej oceny.
+7. Przeszukanie filmów według różnych kategorii lub gatunków.
+8. Zaktualizowanie własnej recenzji, zmieniając komentarz.
+9. Usunięcie własnej recenzji i potwierdzenie operacji.
+10. Sprawdzenie, czy aplikacja wyświetla średnią ocenę filmu na podstawie recenzji użytkowników.
+
+Test Exploracyjny 6: Składanie Zamówienia w Aplikacji Sklepu Internetowego
+
+1. Logowanie się do konta na stronie sklepu internetowego.
+2. Przeglądanie kategorii produktów i wybieranie produktów do koszyka.
+3. Przeszukanie koszyka, sprawdzenie ilości i cen produktów.
+4. Przejście do procesu składania zamówienia.
+5. Wybór adresu dostawy i opcji płatności.
+6. Wprowadzenie niepoprawnego numeru karty kredytowej i sprawdzenie reakcji systemu.
+7. Podanie poprawnych danych karty kredytowej i złożenie zamówienia.
+8. Sprawdzenie potwierdzenia zamówienia i numeru śledzenia.
+9. Przejście do historii zamówień i sprawdzenie statusu zamówienia.
+10. Anulowanie zamówienia przed wysyłką i potwierdzenie operacji.
+
+Test Exploracyjny 7: Nawigacja i Wyszukiwanie w Aplikacji Map
+
+1. Otwarcie aplikacji mapowej na urządzeniu mobilnym.
+2. Sprawdzenie, czy aplikacja automatycznie lokalizuje bieżące położenie.
+3. Wyszukanie określonego miejsca, takiego jak restauracja lub muzeum, za pomocą funkcji wyszukiwania.
+4. Wybór jednej z propozycji wyników wyszukiwania i nawigacja do tego miejsca.
+5. Przejście w tryb widoku satelitarnego i sprawdzenie dokładności wyświetlanego obrazu.
+6. Przesunięcie mapy w różne kierunki i przybliżanie/oddalanie widoku.
+7. Dodanie zakładki na ulubione miejsce i sprawdzenie, czy jest dostępne w zakładce "Ulubione".
+
+Test Exploracyjny 8: Przeglądanie i Tworzenie Notatek w Aplikacji do Notatek
+
+1. Otwarcie aplikacji do notatek na smartfonie lub komputerze.
+2. Przeglądanie istniejących notatek na liście.
+3. Wybór konkretnej notatki i przeczytanie jej treści.
+4. Utworzenie nowej notatki i wpisanie treści oraz tytułu.
+5. Zaznaczenie fragmentu tekstu i dodanie mu kategorii lub etykiety.
+6. Przeszukanie notatek za pomocą funkcji wyszukiwania i znalezienie notatki po kategorii.
+7. Ustawienie przypomnienia na konkretną notatkę i sprawdzenie, czy powiadomienie zostanie wyświetlone.
+8. Usunięcie jednej z notatek i potwierdzenie operacji.
+9. Eksportowanie notatki do pliku tekstowego lub PDF.
+10. Sprawdzenie, czy można udostępnić notatkę innym użytkownikom.
+
+Test Exploracyjny 9: Dodawanie i Przeglądanie Zdarzeń w Aplikacji Kalendarza
+
+1. Otwarcie aplikacji kalendarza.
+2. Dodanie nowego wydarzenia, wpisując datę, godzinę, tytuł i opis.
+3. Ustawienie przypomnienia na 15 minut przed rozpoczęciem wydarzenia.
+4. Sprawdzenie, czy wydarzenie jest widoczne na kalendarzu.
+5. Przejście do widoku miesięcznego i sprawdzenie, czy wydarzenie jest widoczne.
+6. Edycja istniejącego wydarzenia, zmieniając datę i godzinę.
+7. Sprawdzenie, czy zmiany zostały zapisane.
+8. Usunięcie wydarzenia z kalendarza i potwierdzenie operacji.
+9. Importowanie wydarzenia z pliku i sprawdzenie, czy jest widoczne na kalendarzu.
+10. Dzielenie się wydarzeniem z innymi użytkownikami.
+
+Test Exploracyjny 10: Wykorzystanie Aplikacji Pogodowej
+
+1. Otwarcie aplikacji pogodowej na urządzeniu mobilnym.
+2. Sprawdzenie aktualnej prognozy pogody dla bieżącej lokalizacji.
+3. Wprowadzenie innej lokalizacji i sprawdzenie prognozy pogody dla niej.
+4. Przejście do trybu godzinnego lub tygodniowego i sprawdzenie szczegółowej prognozy.
+5. Dodanie kilku lokalizacji do listy ulubionych i sprawdzenie ich prognozy jednym ruchem.
+6. Ustawienie powiadomienia o zmianach pogody i sprawdzenie, czy zostanie wyświetlone.
+7. Przeszukanie aplikacji po nazwie miasta i sprawdzenie, czy wyniki wyszukiwania są dokładne.
+8. Sprawdzenie, czy aplikacja obsługuje różne jednostki temperatury (np. Celsjusze i Fahrenheity).
+9. Przejście do mapy radarowej i sprawdzenie aktualnych warunków pogodowych na mapie.
+
+Test Exploracyjny 11: Przeglądanie i Zamawianie Jedzenia w Aplikacji Dostawczej
+
+1. Otwarcie aplikacji dostawczej na urządzeniu mobilnym.
+2. Wpisanie adresu dostawy lub wybór zapisanego adresu.
+3. Przeglądanie listy dostępnych restauracji i menu.
+4. Dodanie jedzenia do koszyka i sprawdzenie koszyka.
+5. Wybór preferowanej formy płatności (np. online lub gotówką).
+6. Złożenie zamówienia i sprawdzenie potwierdzenia.
+7. Monitorowanie statusu zamówienia na mapie lub w czasie rzeczywistym.
+8. Ocena dostawy i jedzenia po dostawie.
+9. Dodanie specjalnych uwag do zamówienia (np. "bez cebuli" lub "ostre").
+10. Kontakt z obsługą klienta w razie problemów z zamówieniem.
+
+Test Exploracyjny 12: Przeglądanie i Dodawanie Ogłoszeń w Aplikacji Ogłoszeniowej
+
+1. Otwarcie aplikacji ogłoszeniowej na smartfonie.
+2. Przeglądanie kategorii ogłoszeń, takich jak nieruchomości, motoryzacja lub praca.
+3. Wyszukanie ogłoszenia na podstawie określonych kryteriów, np. lokalizacji i ceny.
+4. Kliknięcie na ogłoszenie, aby zobaczyć jego szczegóły.
+5. Dodanie własnego ogłoszenia, zawierającego tytuł, opis i zdjęcia.
+6. Wybór odpowiedniej kategorii i lokalizacji dla ogłoszenia.
+7. Przeszukanie listy swoich dodanych ogłoszeń i ich edycja.
+8. Usunięcie jednego z ogłoszeń i potwierdzenie operacji.
+9. Kontakt z autorem ogłoszenia w celu uzyskania dodatkowych informacji.
+10. Zapisanie interesującego ogłoszenia do zakładek lub ulubionych.
+
+Test Exploracyjny 13: Korzystanie z Aplikacji Fitness Tracker
+
+1. Otwarcie aplikacji fitness tracker na smartfonie lub urządzeniu wearable.
+2. Sprawdzenie synchronizacji z urządzeniem pomiarowym, takim jak smartwatch lub krokomierz.
+3. Rozpoczęcie monitorowania aktywności, takiej jak bieganie, jazda na rowerze lub spacery.
+4. Przejście do zakładki "Historia" i sprawdzenie poprzednich treningów i osiągnięć.
+5. Ustawienie celów treningowych, takich jak liczba kroków dziennie lub dystans do pokonania.
+6. Wybór programu treningowego i przestrzeganie go.
+7. Wprowadzenie danych dotyczących posiłków i kalorii spożytych w ciągu dnia.
+8. Monitorowanie snu i analiza jakości snu na podstawie danych z urządzenia.
+9. Przeszukanie dostępnych statystyk i wykresów dotyczących aktywności i zdrowia.
+10. Ustawienie przypomnień o treningach i posiłkach.
+
+Test Exploracyjny 14: Zakupy i Oceny Produktów w Aplikacji Sklepu Online
+
+1. Logowanie się do aplikacji sklepu online.
+2. Przeglądanie kategorii produktów i wybieranie produktów do zakupów.
+3. Dodanie produktów do koszyka i sprawdzenie zawartości koszyka.
+4. Przejście do procesu składania zamówienia i wybór adresu dostawy.
+5. Wybór opcji płatności i wprowadzenie danych płatności.
+6. Wprowadzenie kodu rabatowego (jeśli dostępny) i sprawdzenie obniżki cen.
+7. Złożenie zamówienia i sprawdzenie potwierdzenia zamówienia.
+8. Ocenienie produktów po dostawie i napisanie recenzji.
+9. Sprawdzenie historii zamówień i statusu dostawy.
+10. Kontakt z obsługą klienta w razie problemów z zamówieniem.
+
+Test Exploracyjny 15: Rejestracja i Tworzenie Profilu w Aplikacji Społecznościowej
+
+1. Pobranie i instalacja aplikacji społecznościowej na smartfonie.
+2. Rozpoczęcie procesu rejestracji i podanie danych, takich jak imię, nazwisko i adres e-mail.
+3. Wybór nazwy użytkownika (nick) i ustawienie zdjęcia profilowego.
+4. Znalezienie i dodanie znajomych do listy kontaktów lub zaproszenie znajomych.
+5. Tworzenie pierwszego postu na tablicy i udostępnienie go.
+6. Ustawienie preferencji prywatności, tak aby kontrolować, kto może widzieć treści na profilu.
+7. Wysłanie wiadomości prywatnej do innego użytkownika.
+8. Korzystanie z funkcji komentowania i polubień na postach innych użytkowników.
+9. Edycja profilu, dodawanie informacji o sobie i zainteresowaniach.
+10. Zmiana ustawień powiadomień i preferencji dotyczących konta.
